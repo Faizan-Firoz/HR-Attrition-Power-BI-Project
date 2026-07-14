@@ -58,8 +58,9 @@ visual read on where the biggest turnover risks lie.
 
 ```
 ├── HR Analytics Dashboard.pbix   # Power BI report file
-├── data/                          # Source dataset (if included)
-└── README.md                      # Project documentation
+├── data/                         # Source dataset (if included)
+    png                           # Screenshot of Dashboard
+└── README.md                     # Project documentation
 ```
 
 ## About
